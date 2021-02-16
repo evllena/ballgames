@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallsComon\obj\Debug\BallsCommon.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallsComon\obj\Debug\BallsCommon.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallsComon\bin\Debug\BallsComon.dll
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallsComon\bin\Debug\BallsComon.pdb
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallsComon\obj\Debug\BallsComon.dll
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallsComon\obj\Debug\BallsComon.pdb

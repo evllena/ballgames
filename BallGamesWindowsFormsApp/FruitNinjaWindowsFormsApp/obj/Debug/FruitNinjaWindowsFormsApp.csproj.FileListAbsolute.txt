@@ -1,0 +1,13 @@
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\FruitNinjaWindowsFormsApp.exe.config
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\FruitNinjaWindowsFormsApp.exe
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\FruitNinjaWindowsFormsApp.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\BallsComon.dll
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\BallsComon.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.MainForm.resources
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.Properties.Resources.resources
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.CopyComplete
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.exe
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.pdb

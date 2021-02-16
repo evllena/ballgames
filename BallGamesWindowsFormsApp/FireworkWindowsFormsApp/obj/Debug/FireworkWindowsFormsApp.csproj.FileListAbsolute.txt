@@ -1,0 +1,13 @@
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\bin\Debug\FireworkWindowsFormsApp.exe.config
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\bin\Debug\FireworkWindowsFormsApp.exe
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\bin\Debug\FireworkWindowsFormsApp.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\bin\Debug\BallsComon.dll
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\bin\Debug\BallsComon.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.MainForm.resources
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.Properties.Resources.resources
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.csproj.CopyComplete
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.exe
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\FireworkWindowsFormsApp\obj\Debug\FireworkWindowsFormsApp.pdb

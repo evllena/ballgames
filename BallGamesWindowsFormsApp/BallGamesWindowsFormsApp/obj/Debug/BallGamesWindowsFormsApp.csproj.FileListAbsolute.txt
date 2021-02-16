@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\bin\Debug\BallGamesWindowsFormsApp.exe.config
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\bin\Debug\BallGamesWindowsFormsApp.exe
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\bin\Debug\BallGamesWindowsFormsApp.pdb
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.MainForm.resources
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.Properties.Resources.resources
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.exe
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.pdb
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\bin\Debug\BallsComon.dll
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\bin\Debug\BallsComon.pdb
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BallGamesWindowsFormsApp\obj\Debug\BallGamesWindowsFormsApp.csproj.CopyComplete

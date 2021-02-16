@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BilliardBallsWindowsFormsApp.exe.config
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BilliardBallsWindowsFormsApp.exe
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BilliardBallsWindowsFormsApp.pdb
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BallsComon.dll
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BallsComon.pdb
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.MainForm.resources
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.Properties.Resources.resources
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.CopyComplete
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.exe
+C:\Users\Home\source\repos\OnlineCourse5Stream\BallGamesWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.pdb
